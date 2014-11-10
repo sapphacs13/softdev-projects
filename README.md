@@ -2,49 +2,49 @@
 
 ###API:
 
-  Adriel Mendoza, Sappha O'Meara
+Adriel Mendoza, Sappha O'Meara
   
-  #### Description
+#### Description
   
-  A website that utilizes APIs to generate albums using songs, google images, and tumblr posts. (in progress)
+A website that utilizes APIs to generate albums using songs, google images, and tumblr posts. (in progress)
   
-  https://github.com/adrielmendoza/Crescendo.git
+https://github.com/adrielmendoza/Crescendo.git
 
 ###Blog:
 
-  Jason Lu, Chesley Tan, Elise Zlotnikova, Sappha O'Meara
+Jason Lu, Chesley Tan, Elise Zlotnikova, Sappha O'Meara
   
-  #### Description
+#### Description
   
-  A simple blog page where you can post notes and see the authors and titles of the posts. The blog saves all of the current info, even when it it not surrently running.
+A simple blog page where you can post notes and see the authors and titles of the posts. The blog saves all of the current info, even when it it not surrently running.
   
-  https://github.com/jasonluX13/hairy-dubstep-blog
+https://github.com/jasonluX13/hairy-dubstep-blog
 
 ###Search Engine:
-  Alex Zilbersher, Ziwei Ye, Sappha O'Meara, Tina Lee
+Alex Zilbersher, Ziwei Ye, Sappha O'Meara, Tina Lee
   
-  #### Description
+#### Description
   
-  A search engine which scrapes Google search pages and links to find the answers to questions asked by the user.
+A search engine which scrapes Google search pages and links to find the answers to questions asked by the user.
   
-  https://github.com/sapphacs13/GoogleSoulSearch
+https://github.com/sapphacs13/GoogleSoulSearch
 
 ##Mini-Projects:
 
 ###login:
 
-  Fawn Wong, Sappha O'Meara
+Fawn Wong, Sappha O'Meara
   
-  5/login/fawn_sappha
+5/login/fawn_sappha
 
 ###regexp
 
-  Sappha O'Meara, Elise Zlotnikova
+Sappha O'Meara, Elise Zlotnikova
   
-  5/regexp/sappha_elise
+5/regexp/sappha_elise
   
 ###intro-proj 1
 
-  Sappha O'Meara, Edison Shi
+Sappha O'Meara, Edison Shi
   
-  5/intro-proj1/sappha_edison
+5/intro-proj1/sappha_edison

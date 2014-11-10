@@ -20,17 +20,20 @@ Search Engine:
 
 Mini-Projects:
 
-login
-  Fawn Wong, Sappha O'Meara
+login:
+
+  ->Fawn Wong, Sappha O'Meara
   
-  5/login/fawn_sappha
+  ->5/login/fawn_sappha
 
 regexp
-  Sappha O'Meara, Elise Zlotnikova
+
+  ->Sappha O'Meara, Elise Zlotnikova
   
-  5/regexp/sappha_elise
+  ->5/regexp/sappha_elise
   
 intro-proj 1
-  Sappha O'Meara, Edison Shi
+
+  ->Sappha O'Meara, Edison Shi
   
-  5/intro-proj1/sappha_edison
+  ->5/intro-proj1/sappha_edison

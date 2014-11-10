@@ -1,7 +1,6 @@
 Main Projects:
 
-API:
-  Adriel Mendoza, Sappha O'Meara
+API: Adriel Mendoza, Sappha O'Meara
   A website that utilizes APIs to generate albums using songs, google images, and tumblr posts. (in progress)
   
   https://github.com/adrielmendoza/Crescendo.git

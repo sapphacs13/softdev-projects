@@ -51,6 +51,6 @@ https://github.com/sapphacs13/GoogleSoulSearch
   *Sappha O'Meara, Elise Zlotnikova
   *5/regexp/sappha_elise
 
--intro-proj 1:
++intro-proj 1:
   -Sappha O'Meara, Edison Shi
   -5/intro-proj1/sappha_edison

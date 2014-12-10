@@ -1,4 +1,5 @@
 #Sappha O'Meara
+==========
 #Fall Semester
 Period 5
 
@@ -42,10 +43,10 @@ https://github.com/sapphacs13/GoogleSoulSearch
   *Sappha O'Meara
   *5/todo/sappha_omeara
 
-*login:
-  *Fawn Wong, Sappha O'Meara
-  *5/login/fawn_sappha
-
++ login:
++   Fawn Wong, Sappha O'Meara
++   5/login/fawn_sappha
++   
 *regexp:
   *Sappha O'Meara, Elise Zlotnikova
   *5/regexp/sappha_elise

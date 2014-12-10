@@ -35,22 +35,22 @@ A search engine which scrapes Google search pages and links to find the answers 
 https://github.com/sapphacs13/GoogleSoulSearch
 
 ##Mini-Projects:
-*invisible_thluffy:
-  *Sappha O'Meara
-  *5/invisiblethluffy/sappha_omeara
+* invisible_thluffy:
+  * Sappha O'Meara
+  * 5/invisiblethluffy/sappha_omeara
  
-*todo:
-  *Sappha O'Meara
-  *5/todo/sappha_omeara
+* todo:
+  * Sappha O'Meara
+  * 5/todo/sappha_omeara
 
-+ login:
-+   Fawn Wong, Sappha O'Meara
-+   5/login/fawn_sappha
-+   
-*regexp:
-  *Sappha O'Meara, Elise Zlotnikova
-  *5/regexp/sappha_elise
+* login:
+  * Fawn Wong, Sappha O'Meara
+  * 5/login/fawn_sappha
+  
+* regexp:
+  * Sappha O'Meara, Elise Zlotnikova
+  * 5/regexp/sappha_elise
 
-*intro-proj 1:
-  *Sappha O'Meara, Edison Shi
-  *5/intro-proj1/sappha_edison
+* intro-proj 1:
+  * Sappha O'Meara, Edison Shi
+  * 5/intro-proj1/sappha_edison

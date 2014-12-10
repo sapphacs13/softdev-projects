@@ -1,5 +1,4 @@
 #Sappha O'Meara
-==========
 #Fall Semester
 Period 5
 

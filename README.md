@@ -4,7 +4,7 @@ Period 5
 ##Main Projects:
 
 ### Final Project: TVThing
-####Fawn Wong, Elise Zlotnikova, Sappha O'Meara
+Fawn Wong, Elise Zlotnikova, Sappha O'Meara
 #### Description
 Social TV Watching
 #####https://github.com/fawnwong/TVthing

@@ -47,3 +47,37 @@ A search engine which scrapes Google search pages and links to find the answers 
 * intro-proj 1:
   * Sappha O'Meara, Edison Shi
   * 5/intro-proj1/sappha_edison
+
+
+#Spring Semester
+Period 5
+##Main Projects:
+
+###Final Project: Commentary
+Benedict Bolton, Justin Kim, Elise Zlotnikova, Sappha O'Meara
+####Description:
+A Chrome extension that allows users to comment anything on webpages. Support for upvoting/downvoting and potentially embedded media.
+#####https://github.com/softdev-projects/commentary
+
+##Mini-Projects:
+
+* mountains:
+    * Sappha O'Meara
+    * 5/mountains/sappha_omeara
+
+* backbone:
+    * Sappha O'Meara, Elise Zlotnikova
+    * 5/backbone1/sappha_elise_OZ
+
+* canvas:
+    * Sappha O'Meara, Elise Zlotnikova
+    * 5/canvas/sappha_elise
+
+* marionette:
+    * Sappha O'Meara
+    * 5/marionette/sappha_omeara
+
+* svg:
+    * Sappha O'Meara, Elise Zlotnikova
+    * 5/svg/elise_sappha
+
